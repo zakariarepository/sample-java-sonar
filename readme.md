@@ -8,5 +8,6 @@
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=piomin_sample-java-sonar&metric=ncloc)](https://sonarcloud.io/dashboard?id=piomin_sample-java-sonar)
 
 Detailed description can be found here: [Code Quality with SonarQube](https://piotrminkowski.com/2017/07/20/code-quality-with-sonarqube/) 
+yes
 
 
